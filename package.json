@@ -1,0 +1,15 @@
+{
+	"name": "tictactoe",
+	"version": "1.0.0",
+	"description": "A simple Tic-Tac-Toe game as a job interview exam",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Emil Leibovich",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.1",
+		"socket.io": "^4.5.1"
+	}
+}
